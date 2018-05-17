@@ -1,4 +1,4 @@
+# node-boilerplate ignores
 dist
-node_modules
 npm-debug.log
 ^.*
